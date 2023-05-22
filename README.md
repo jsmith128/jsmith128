@@ -10,4 +10,5 @@
 
 ###### “It was a weird day when I realized that, when I was young, there was a huge chasm separating mortals from immortals. And people like Led Zeppelin that made songs; they were immortal. And then one day I realized, "oh my god, I can make a song," I was like "wow that is the weirdest thing." The immortals are the ones who make the music, and the mortals are the ones who listen.”
 
+![minecraft in povray](https://i.imgur.com/QkI3hby.png)
 ![KEEP GOING| OH MY GOD STOP](https://i.imgur.com/akZEO26.png)
