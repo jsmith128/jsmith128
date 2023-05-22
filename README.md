@@ -1,8 +1,8 @@
 # “when ur life sucks u can grab hold of ur destiny and become a cat in the cyber” - ville kallio
 
-<br/>[![My Skills](https://skillicons.dev/icons?i=blender,unity,vscode,py,cs,lua,html,css)](https://skillicons.dev)<br/><br/>
+[![My Skills](https://skillicons.dev/icons?i=blender,unity,vscode,py,cs,lua,html,css)](https://skillicons.dev)
 
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/280220075385159690)<br/>
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/280220075385159690)
 
 ### “As human beings, unless we have someone to compliment our work and enjoy what we’ve created, we’re not apt to go out on a limb"
 
