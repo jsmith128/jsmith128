@@ -1,4 +1,4 @@
-#### it's serving gonked gourd 
+#### hi
 
 [![My Skills](https://skillicons.dev/icons?i=blender,vscode,py,lua,cs,html,css)](https://skillicons.dev)
 
